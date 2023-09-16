@@ -1,2 +1,2 @@
 Se realizó deploy con Netlify
-https://relajado-frangollo-92552d.netlify.app
+https://relaxed-frangollo-92552d.netlify.app/
